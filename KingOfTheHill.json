@@ -1,0 +1,160 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 1800.0,
+    "StartDelay": 900.0,
+    "CaptureTime": 900.0,
+    "EmptyEventTimeOut": 1800.0,
+    "CleanUpTime": 600.0,
+    "PreStartDelay": 300.0,
+    "Hills": [
+        {
+            "Name": "Asgard Castle",
+            "X": 9041,
+            "Y": 0,
+            "Z": 13167,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Tisovik",
+            "X": 12128,
+            "Y": 0,
+            "Z": 15066,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Obsidian",
+            "X": 4261,
+            "Y": 0,
+            "Z": 14384,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Hrabice Airport",
+            "X": 2069,
+            "Y": 0,
+            "Z": 11744,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Hrabice Airport",
+            "X": 2007,
+            "Y": 0,
+            "Z": 11404,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Alica Airport",
+            "X": 4873,
+            "Y": 0,
+            "Z": 4780,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Pepelova Military",
+            "X": 317,
+            "Y": 0,
+            "Z": 5927,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Happy Bombs",
+            "X": 868,
+            "Y": 0,
+            "Z": 8983,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Outpost Arkaria",
+            "X": 6167,
+            "Y": 0,
+            "Z": 2016,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Jankov Vrsok",
+            "X": 13821,
+            "Y": 0,
+            "Z": 3759,
+            "CaptureRadius": 15.0,
+            "EventRadius": 100.0,
+            "ZombieCount": 10,
+            "Objects": []
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "First Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "M4A1",
+                    "ItemAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ]
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "ItemAttachments": [
+                        "PlateCarrierHolster"
+                    ]
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5.0,
+    "EventTickTime": 1.0,
+    "Logging": 1
+}
