@@ -10,9 +10,9 @@
     "Hills": [
         {
             "Name": "Asgard Castle",
-            "X": 9041,
+            "X": 8920,
             "Y": 0,
-            "Z": 13167,
+            "Z": 13177,
             "CaptureRadius": 15.0,
             "EventRadius": 100.0,
             "ZombieCount": 10,
@@ -20,9 +20,9 @@
         },
         {
             "Name": "Tisovik",
-            "X": 12128,
+            "X": 12130,
             "Y": 0,
-            "Z": 15066,
+            "Z": 15030,
             "CaptureRadius": 15.0,
             "EventRadius": 100.0,
             "ZombieCount": 10,
@@ -60,9 +60,9 @@
         },
         {
             "Name": "Alica Airport",
-            "X": 4873,
+            "X": 4878,
             "Y": 0,
-            "Z": 4780,
+            "Z": 4778,
             "CaptureRadius": 15.0,
             "EventRadius": 100.0,
             "ZombieCount": 10,
@@ -70,9 +70,9 @@
         },
         {
             "Name": "Pepelova Military",
-            "X": 317,
+            "X": 312,
             "Y": 0,
-            "Z": 5927,
+            "Z": 5932,
             "CaptureRadius": 15.0,
             "EventRadius": 100.0,
             "ZombieCount": 10,
@@ -90,7 +90,7 @@
         },
         {
             "Name": "Outpost Arkaria",
-            "X": 6167,
+            "X": 6172,
             "Y": 0,
             "Z": 2016,
             "CaptureRadius": 15.0,
