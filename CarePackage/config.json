@@ -64,33 +64,27 @@
             "parachute_type": "ArmyParachute_typhon",
             "Items": [
                 {
-                    "Item": "FAL",
+                    "Item": "TTC_AKMod_Gold",
                     "MinQty": 1,
                     "MaxQty": 1,
                     "Attachments": [
-                        "Mag_FAL_20Rnd",
-                        "Fal_FoldingBttstck",
+                        "TTC_AKMod_Gold_bttstk",
+                        "TTC_AKMod_Gold_Hndguard",
+                        "TTC_AKMod_762x54_65_rnd",
                         "ACOGOptic"
                     ]
                 },
                 {
-                    "Item": "AKM",
+                    "Item": "TTC_ModDMR_762",
                     "MinQty": 1,
                     "MaxQty": 1,
                     "Attachments": [
-                        "Mag_AKM_Drum75rnd",
-                        "AK_WoodHndgrd",
-                        "AK_woodBttStck",
-                        "KobraOptic"
-                    ]
-                },
-                {
-                    "Item": "SVD",
-                    "MinQty": 1,
-                    "MaxQty": 1,
-                    "Attachments": [
-                        "Mag_SVD_10rnd",
-                        "PSO1Optic"
+                        "TTC_DMR_HndguardDesert",
+                        "TTC_DMR_Suppressor",
+                        "TTC_DMR_VFG",
+                        "TTC_DMR_762Stanag_20rnd",
+                        "M4_OEBttstck",
+                        "HuntingOptic"
                     ]
                 }
             ]
