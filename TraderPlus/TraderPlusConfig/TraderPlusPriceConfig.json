@@ -1,8 +1,8 @@
 {
-    "EnableAutoCalculation": 0,
+        "EnableAutoCalculation": 0,
 	"EnableAutoDestockAtRestart": 0,
 	"EnableDefaultTraderStock": 0,
-    "TraderCategories": [
+        "TraderCategories": [
         {
             "CategoryName": "Vegetables",
             "Products": [
@@ -170,8 +170,8 @@
                 "BatteryCharger,1,-1,0,500,50",
                 "BaseRadio,1,-1,0,500,50",
                 "Rangefinder,1,-1,0,500,50",
-                "NVGoggles,1,-1,0,5000,500"
-				"CodeLock,1,-1,0,10000,1000"
+                "NVGoggles,1,-1,0,5000,500",
+                "CodeLock,1,-1,0,10000,1000"
             ]
         },
         {
