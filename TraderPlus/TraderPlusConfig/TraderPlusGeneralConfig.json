@@ -3,53 +3,52 @@
 	"ConvertTraderConfigToTraderPlusWithStockBasedOnCE": 0,
 	"UseGarageToTradeCar": 0,
 	"DisableHeightFailSafeForReceiptDeployment": 0,
-	"EnableShowAllPrices": 1,
 	"EnableShowAllCheckBox": 1,
 	"EnableStockAllCategory": 1,
 	"IsReceiptTraderOnly": 1,
-	"LockPickChance": 0.30000001192092898,
-	"LicenceKeyWord": "License",
+	"LockPickChance": 0.30,
+	"LicenceKeyWord": "Licence",
 	"Licences": [
-		"Driver's license",
-		"Admin license"
+		"Car Licence",
+		"Admin Licence"
 	],
 	"AcceptedStates": {
 		"AcceptWorn": 1,
-		"AcceptDamaged": 1,
-		"AcceptBadlyDamaged": 1
+		"AcceptDamaged": 0,
+		"AcceptBadlyDamaged": 0
 	},
 	"StoreOnlyToPristineState": 0,
 	"Currencies": [
 		{
-			"ClassName": "TraderPlus_Money_Euro500,TraderPlus_Money_Ruble500",
+			"ClassName": "TraderPlus_Money_Euro500",
 			"Value": 500
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar100,TraderPlus_Money_Euro100,TraderPlus_Money_Ruble100",
+			"ClassName": "TraderPlus_Money_Euro100",
 			"Value": 100
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar50,TraderPlus_Money_Euro50,TraderPlus_Money_Ruble50",
+			"ClassName": "TraderPlus_Money_Euro50",
 			"Value": 50
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar20,TraderPlus_Money_Euro20",
+			"ClassName": "TraderPlus_Money_Euro20",
 			"Value": 20
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar10,TraderPlus_Money_Euro10,TraderPlus_Money_Ruble10",
+			"ClassName": "TraderPlus_Money_Euro10",
 			"Value": 10
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar5,TraderPlus_Money_Euro5,TraderPlus_Money_Ruble5,TraderPlus_Money_Ruble5_Coin",
+			"ClassName": "TraderPlus_Money_Euro5",
 			"Value": 5
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar2,TraderPlus_Money_Ruble2_Coin,TraderPlus_Money_Euro2",
+			"ClassName": "TraderPlus_Money_Euro2",
 			"Value": 2
 		},
 		{
-			"ClassName": "TraderPlus_Money_Dollar1,TraderPlus_Coin,TraderPlus_Money_Ruble1_Coin,TraderPlus_Money_Euro1",
+			"ClassName": "TraderPlus_Money_Euro1",
 			"Value": 1
 		}
 	],
@@ -226,18 +225,52 @@
 				"ParamedicPants_Blue",
 				"AthleticShoes_Blue"
 			]
+		},
+		{
+			"Id": -2,
+			"Name": "TraderPlus_BANK_ATM",
+			"GivenName": "ATM",
+			"Role": "EUR",
+			"Position": [
+				7723.6,
+				237.04,
+				7160.5
+			],
+			"Orientation": [
+				-2.8792,
+				0.0,
+				0.0
+			],
+			"Clothes": []
+		},
+		{
+			"Id": -2,
+			"Name": "TraderPlus_BANK_ATM",
+			"GivenName": "ATM",
+			"Role": "EUR",
+			"Position": [
+				7723.7,
+				237.04,
+				7158.3
+			],
+			"Orientation": [
+				-2.6552,
+				0.0,
+				0.0
+			],
+			"Clothes": []
 		}
 	],
 	"TraderObjects": [
 		{
-			"ObjectName": "bldr_Misc_RoadBarrier",
+			"ObjectName": "RFFSHeli_Osprey_Static",
 			"Position": [
-				11537.2001953125,
-				59.0,
-				14726.099609375
+				7794.0,
+				238.0,
+				7162.0
 			],
 			"Orientation": [
-				55.000003814697269,
+				0.0,
 				0.0,
 				0.0
 			]
