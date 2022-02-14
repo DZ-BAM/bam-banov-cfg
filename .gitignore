@@ -1,0 +1,11 @@
+*.log
+*.ADM
+*.RPT
+*.vpp
+DataCache/
+PermissionsFramework/Permissions/
+PermissionsFramework/Players/
+TraderPlus/*Database/
+VPPAdminTools/Logging/
+VPPAdminTools/Permissions/
+users/
