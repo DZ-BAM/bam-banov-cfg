@@ -756,7 +756,7 @@
         {
             "CategoryName": "Pants",
             "Products": [
-                "MedicalScrubsPants_Blue,1,-1,0,10,2",
+                "MedicalScrubsPants_Blue,0.584804,4,0,10,2",
                 "MedicalScrubsPants_White,0.584804,4,0,10,2",
                 "MedicalScrubsPants_Green,0.584804,4,0,10,2",
                 "TrackSuitPants_Red,0.946014,30,0,15,3",
