@@ -2,6 +2,8 @@
 *.ADM
 *.RPT
 *.vpp
+*.mdmp
+*.dll 
 DataCache/
 PermissionsFramework/Permissions/
 PermissionsFramework/Players/
