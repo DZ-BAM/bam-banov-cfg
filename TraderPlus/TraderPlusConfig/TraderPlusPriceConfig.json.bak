@@ -243,7 +243,45 @@
                 "PowerGenerator,1,-1,0,3000,1000",
                 "MediumTent,1,-1,0,3000,300",
                 "CarTent,1,-1,0,10000,1000",
-                "LargeTent,1,-1,0,12000,1200"
+                "LargeTent,1,-1,0,12000,1200",
+				"Msp_Greenhouse_Kit,1,-1,0,15000,2000",
+				"Msp_GreenhouseWood_Kit,1,-1,0,15000,2000",
+				"Msp_LargeAmmoBox,1,-1,0,500,100",
+				"Msp_Safe,1,-1,0,6000,1000",
+				"Msp_MilitaryCrate_Brown,1,-1,0,10000,1500",
+				"Msp_MilitaryCrate_Green,1,-1,0,10000,1500",
+				"Msp_MilitaryCrate_Grey,1,-1,0,10000,1500",
+				"Msp_MilitaryCrate_Olive,1,-1,0,10000,1500",
+				"Msp_MilitaryCrate_Tan,1,-1,0,10000,1500",
+				"Msp_Gazebo_Kit,1,-1,0,6000,1200",
+				"Msp_StoneFireplace_Kit,1,-1,0,5000,1000",
+				"Msp_MoskvaFridge_Cream_Kit,1,-1,0,5000,1000",
+				"Msp_SovietOkaFridge_Kit,1,-1,0,5000,1000",
+				"Msp_SnowballFridge_Kit,1,-1,0,5000,1000",
+				"Msp_FishingRodsRack_Kit,1,-1,0,3000,500",
+				"Msp_GunCabinet_Kit,1,-1,0,12000,1500",
+				"Msp_DoubleGunRack_Kit,1,-1,0,20000,4000",
+				"Msp_GunRack_Kit,1,-1,0,13000,3000",
+				"Msp_Gunwall_Kit,1,-1,0,12000,2000",
+				"Msp_MilitaryLocker_Kit,1,-1,0,14000,2000",
+				"Msp_StorageBox_Kit,1,-1,0,13000,1500",
+				"Msp_ToolsBench_Blue_Kit,1,-1,0,12000,1500",
+				"Msp_ToolsBench_Grey_Kit,1,-1,0,12000,1500",
+				"Msp_ToolsBench_Red_Kit,1,-1,0,12000,1500",
+				"Msp_Locker_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_Black_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_White_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_Green_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_Red_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_RedRusty_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_Yellow_Kit,1,-1,0,15000,3000",
+				"Msp_SoloLocker_YellowRusty_Kit,1,-1,0,15000,3000",
+				"Msp_FourDoor_MilitaryLocker_Kit,1,-1,0,18000,5000",
+				"Msp_FourDoor_MilitaryLocker_Green_Kit,1,-1,0,18000,5000",
+				"Msp_WaterBarrel_Plastic,1,-1,0,2000,100",
+				"Msp_WaterBarrel_Valve_Faucet,1,-1,0,500,50",
+				"Msp_WaterBarrel_Stand,1,-1,0,500,50"
             ]
         },
         {
@@ -270,14 +308,20 @@
         {
             "CategoryName": "Sidearms",
             "Products": [
-                "Flaregun,1,-1,1,10000,500",
-                "MakarovIJ70,1,-1,1,8000,400",
-                "CZ75,1,-1,1,9000,500",
-                "FNX45,1,-1,1,10000,1000",
-                "Glock19,1,-1,1,9000,500",
-                "MKII,1,-1,1,8000,300",
-                "Colt1911,1,-1,1,10000,500",
-                "Engraved1911,1,-1,1,10000,1000"
+                "Flaregun,1,-1,1,3000,500",
+                "MakarovIJ70,1,-1,1,3000,400",
+                "CZ75,1,-1,1,3000,500",
+                "FNX45,1,-1,1,3000,1000",
+				"TTC_Glock17,1,-1,1,4000,1000",
+                "Glock19,1,-1,1,4000,500",
+                "MKII,1,-1,1,4000,300",
+                "Colt1911,1,-1,1,5000,500",
+                "Engraved1911,1,-1,1,5000,1000",
+				"TTC_Kimber,1,-1,1,5000,1000",
+				"TTC_P320,1,-1,1,5000,1000",
+				"TTC_M9,1,-1,1,5000,1000",
+				"TTC_44Magnum,1,-1,1,5000,1000",
+				"TTC_Deagle,1,-1,1,5000,1000"
             ]
         },
         {
@@ -295,16 +339,25 @@
             "Products": [
                 "Mp133Shotgun,1,-1,1,3000,300",
                 "Izh43Shotgun,1,-1,1,3000,300",
-                "Saiga,1,-1,1,5000,500"
+                "Saiga,1,-1,1,5000,500",
+				"TTC_Mossberg,1,-1,1,5000,500",
+				"TTC_Maverick,1,-1,1,5000,500",
+				"TTC_Raptr,1,-1,1,10000,1000"
             ]
         },
         {
             "CategoryName": "Submachine Guns",
             "Products": [
-                "CZ61,1,-1,1,3000,300",
+                "CZ61,1,-1,1,5000,500",
+				"TTC_PP91,1,-1,1,5000,500",
+				"TTC_UZI,1,-1,1,5000,500",
                 "UMP45,1,-1,1,5000,800",
                 "MP5K,1,-1,1,4000,600",
-                "AKS74U,-1,1,1,8000,1000"
+                "AKS74U,-1,1,1,10000,1000",
+				"TTC_MCX,-1,1,1,10000,1000",
+				"TTC_MCX_Spear_Black,-1,1,1,12000,1000",
+				"TTC_MP5SD,-1,1,1,12000,1000",
+				"TTC_MP7A1,-1,1,1,15000,1000"
             ]
         },
         {
@@ -314,15 +367,86 @@
                 "AKM,1,-1,1,25000,2500",
                 "AK101,1,-1,1,23000,2300",
                 "AK74,1,-1,1,22000,2200",
-                "M4A1,1,-1,1,24000,2400"
+                "M4A1,1,-1,1,24000,2400",
+				"TTC_M4Tac_Black,1,-1,1,25000,2400",
+				"TTC_MK18,1,-1,1,24000,2400",
+				"TTC_M16A4,1,-1,1,24000,2400",
+				"TTC_SCARL,1,-1,1,25000,2500",
+				"TTC_SCARLBlack,1,-1,1,25000,2500",
+				"TTC_SCARLSnow,1,-1,1,25000,2500",
+				"TTC_L85,1,-1,1,25000,2500",
+				"TTC_TAVOR,1,-1,1,25000,2500",
+				"TTCSR25,1,-1,1,30000,3000",
+				"TTCSR25_Desert,1,-1,1,30000,3000",
+				"TTCSR25_Snow,1,-1,1,30000,3000",
+				"TTCSR25_OD,1,-1,1,30000,3000",
+				"TTC_M110,1,-1,1,30000,3000",
+				"TTC_HK416Tan,1,-1,1,30000,3000",
+				"TTC_HK416OD,1,-1,1,30000,3000",
+				"TTC_HK416Black,1,-1,1,30000,3000",
+				"TTC_SG552,1,-1,1,30000,3100",
+				"TTC_SG552_Wood,1,-1,1,30000,3000",
+				"TTC_SG552_Black,1,-1,1,30000,3000",
+				"TTC_SG550,1,-1,1,30000,3000",
+				"TTC_SG550_Black,1,-1,1,30000,3000",
+				"TTC_AEK973,1,-1,1,30000,3000",
+				"TTC_M16,1,-1,1,30000,3000",
+				"TTC_AACHoney,1,-1,1,30000,3000",
+				"TTC_AACHoney_B,1,-1,1,30000,3000",
+				"TTC_AACHoney_300blk,1,-1,1,30000,3000",
+				"TTC_AACHoney_300blk_B,1,-1,1,30000,3000",
+				"TTC_AK12,1,-1,1,30000,3000",
+				"TTC_HK417,1,-1,1,30000,3000",
+				"TTC_AKMod,1,-1,1,30000,3000",
+				"TC_AKModPK,1,-1,1,30000,3000",
+				"TTC_AG3,1,-1,1,35000,3000"
+            ]
+        },
+		{
+            "CategoryName": "DMR Rifles",
+            "Products": [
+                "TTC_ModDMR_556,1,-1,1,30000,3000",
+				"TTC_ModDMRTan_556,1,-1,1,30000,3000",
+				"TTC_ModDMRTwotone_556,1,-1,1,30000,3000",
+				"TTC_ModDMRCamo_556,1,-1,1,30000,3000",
+				"TTC_ModDMRDigiTan_556,1,-1,1,30000,3000",
+				"TTC_ModDMRUPC_556,1,-1,1,30000,3000",
+				"TTC_ModDMRSnow_556,1,-1,1,30000,3000",
+				"TTC_AVS36,1,-1,1,30000,3000",
+				"TTC_ModDMR_762,1,-1,1,35000,3500",
+				"TTC_ModDMRUPC_762,1,-1,1,35000,3500",
+				"TTC_ModDMRSnow_762,1,-1,1,35000,3500",
+				"TTC_ModDMRCamo_762,1,-1,1,35000,3500",
+				"TTC_ModDMRTan_762,1,-1,1,35000,3500",
+				"TTC_ModDMRTwotone_762,1,-1,1,35000,3500",
+				"TTC_HKG28,1,-1,1,35000,3500",
+				"TTC_LeeEnfield,1,-1,1,35000,3500",
+				"TTC_M1Garand,1,-1,1,35000,3500",
+				"TTC_M4Tac,1,-1,1,35000,3500",
+				"TTC_M14,1,-1,1,35000,3500",
+				"TTC_MRAD,1,-1,1,37000,3700",
+				"TTC_G3,1,-1,1,37000,3700"
             ]
         },
         {
             "CategoryName": "Sniper Rifles",
             "Products": [
                 "VSS,1,-1,1,25000,2500",
-                "B95,1,-1,1,35000,3500",
-                "SVD,1,-1,1,40000,4000"
+                "B95,1,-1,1,20000,2000",
+				"TTC_R700,1,-1,1,20000,2000",
+				"TTC_R700_Black,1,-1,1,20000,2000",
+				"TTC_M1903,1,-1,1,20000,2000",
+				"TTC_SVT40,1,-1,1,20000,2000",
+                "SVD,1,-1,1,20000,2000",
+				"TTC_Winchester1873,1,-1,1,20000,2000",
+				"TTC_kar98k,1,-1,1,20000,2000",
+				"TTC_M24,1,-1,1,22000,2200",
+				"TTC_M24_Bjorn,1,-1,1,22000,2200",
+				"TTC_M24_Woodland,1,-1,1,22000,2200",
+				"TTC_M24_NEW_Black,1,-1,1,22000,2200",
+				"TTC_AWM,1,-1,1,22000,2200",
+				"TTC_XM2010,1,-1,1,25000,2500",
+				"TTC_MAS36,1,-1,1,25000,2500"
             ]
         },
         {
@@ -330,14 +454,14 @@
             "Products": [
                 "RGD5Grenade,1,-1,1,5000,500",
                 "M67Grenade,1,-1,1,5000,500",
-                "M18SmokeGrenade_Red,1,-1,1,300,100",
-                "M18SmokeGrenade_Green,1,-1,1,300,100",
-                "M18SmokeGrenade_Yellow,1,-1,1,300,100",
-                "M18SmokeGrenade_Purple,1,-1,1,300,100",
-                "M18SmokeGrenade_White,1,-1,1,300,100",
-                "RDG2SmokeGrenade_Black,1,-1,1,300,100",
-                "RDG2SmokeGrenade_White,1,-1,1,300,100",
-                "FlashGrenade,1,-1,1,300,100"
+                "M18SmokeGrenade_Red,1,-1,1,3000,100",
+                "M18SmokeGrenade_Green,1,-1,1,3000,100",
+                "M18SmokeGrenade_Yellow,1,-1,1,3000,100",
+                "M18SmokeGrenade_Purple,1,-1,1,3000,100",
+                "M18SmokeGrenade_White,1,-1,1,3000,100",
+                "RDG2SmokeGrenade_Black,1,-1,1,3000,100",
+                "RDG2SmokeGrenade_White,1,-1,1,3000,100",
+                "FlashGrenade,1,-1,1,3000,100"
             ]
         },
         {
@@ -805,72 +929,58 @@
         {
             "CategoryName": "Holster & Pouches",
             "Products": [
-                "ChestHolster,0.959572,40,0,60,20",
-                "PlateCarrierHolster,0.836251,10,0,60,20",
-                "PlateCarrierPouches,0.836251,10,0,100,20"
+                "PlateCarrierHolster,1,-1,0,100,20",
+                "PlateCarrierPouches,1,-1,0,100,20"
             ]
         },
         {
             "CategoryName": "Belt",
             "Products": [
-                "CivilianBelt,0.946014,30,0,100,30",
-                "MilitaryBelt,0.891402,15,0,100,30"
+                "CivilianBelt,1,-1,0,100,30",
+                "MilitaryBelt,1,-1,0,100,30"
             ]
         },
         {
             "CategoryName": "Bags",
             "Products": [
-                "ChildBag_Red,0.967688,50,0,20,5",
-                "ChildBag_Blue,0.967688,50,0,20,5",
-                "ChildBag_Green,0.967688,50,0,25,6",
-                "DryBag_Yellow,0.891402,15,0,30,8",
-                "DryBag_Orange,0.891402,15,0,30,8",
-                "DryBag_Red,0.891402,15,0,30,8",
-                "DryBag_Blue,0.891402,15,0,30,8",
-                "DryBag_Black,0.836251,10,0,35,8",
-                "DryBag_Green,0.66874,5,0,40,10",
-                "TaloonBag_Orange,0.946014,30,0,50,10",
-                "TaloonBag_Violet,0.946014,30,0,50,10",
-                "TaloonBag_Blue,0.946014,30,0,50,10",
-                "TaloonBag_Green,0.946014,30,0,70,20",
-                "SmershBag,0.836251,10,0,100,30",
-                "WaterproofBag_Yellow,0.918781,20,0,100,30",
-                "WaterproofBag_Orange,0.918781,20,0,100,30",
-                "WaterproofBag_Green,0.918781,20,0,110,30",
-                "AssaultBag_Black,0.66874,5,0,110,30",
-                "AssaultBag_Green,0.66874,5,0,110,30",
-                "AssaultBag_Ttsko,0.66874,5,0,130,30",
-                "HuntingBag,0.891402,15,0,130,30",
-                "TortillaBag,0.836251,10,0,180,60",
-                "CoyoteBag_Brown,1,1,0,180,60",
-                "CoyoteBag_Green,1,1,0,180,60",
-                "MountainBag_Orange,0.891402,15,0,300,80",
-                "MountainBag_Red,0.891402,15,0,300,80",
-                "MountainBag_Blue,0.891402,15,0,300,80",
-                "MountainBag_Green,0.891402,15,0,360,100",
-                "AliceBag_Black,0.66874,5,0,400,150",
-                "AliceBag_Green,0.66874,5,0,400,150",
-                "AliceBag_Camo,0.66874,5,0,500,220"
+                "TortillaBag,1,-1,0,300,60",
+                "CoyoteBag_Brown,1,-1,0,300,60",
+                "CoyoteBag_Green,1,-1,0,300,60",
+                "MountainBag_Orange,1,-1,0,400,80",
+                "MountainBag_Red,1,-1,0,400,80",
+                "MountainBag_Blue,1,-1,0,400,80",
+                "MountainBag_Green,1,-1,0,400,80",
+                "AliceBag_Black,1,-1,0,500,150",
+                "AliceBag_Green,1,-1,0,500,150",
+                "AliceBag_Camo,1,-1,0,500,150",
+				"Msp_MedicBag_Red,1,-1,0,800,200",
+				"Msp_MedicBag_Blue,1,-1,0,800,200",
+				"Msp_MedicBag_Green,1,-1,0,800,200",
+				"Msp_MedicBag_Black,1,-1,0,800,200"
             ]
         },
         {
             "CategoryName": "Vehicles",
             "Products": [
-                "OffroadHatchback,0.983874,100,1,14000,8000",
-                "OffroadHatchback_Blue,0.983874,100,1,14000,8000",
-                "OffroadHatchback_White,0.983874,100,1,14000,8000",
-                "Hatchback_02,0.983874,100,1,16000,9600",
-                "Hatchback_02_Blue,0.983874,100,1,16000,9600",
-                "Hatchback_02_Black,0.983874,100,1,16000,9600",
-                "Sedan_02,0.983874,100,1,18000,10200",
-                "Sedan_02_Red,0.983874,100,1,18000,10200",
-                "Sedan_02_Grey,0.983874,100,1,18000,10200",
-                "CivilianSedan,0.983874,100,1,20000,11000",
-                "CivilianSedan_Wine,0.983874,100,1,20000,11000",
-                "CivilianSedan_Black,0.983874,100,1,20000,11000",
-                "Truck_01_Covered,0.983874,100,1,50000,30000",
-                "Truck_01_Covered_Blue,0.983874,100,1,50000,30000",
-                "Truck_01_Covered_Orange,0.983874,100,1,50000,30000"
+                "OffroadHatchback,1,-1,1,300000,100000",
+                "OffroadHatchback_Blue,1,-1,1,300000,100000",
+                "OffroadHatchback_White,1,-1,1,300000,100000",
+                "Hatchback_02,,1,-1,1,300000,100000",
+                "Hatchback_02_Blue,1,-1,1,300000,100000",
+                "Hatchback_02_Black,1,-1,1,300000,100000",
+                "Sedan_02,1,-1,1,350000,125000",
+                "Sedan_02_Red,1,-1,1,350000,125000",
+                "Sedan_02_Grey,1,-1,1,350000,125000",
+                "CivilianSedan,1,-1,1,350000,125000",
+                "CivilianSedan_Wine,1,-1,1,350000,125000",
+                "CivilianSedan_Black,1,-1,1,350000,125000",
+                "Truck_01_Covered,1,-1,1,400000,200000",
+                "Truck_01_Covered_Blue,1,-1,1,400000,200000",
+                "Truck_01_Covered_Orange,1,-1,1,400000,200000",
+				"GunnerTruck,1,-1,1,800000,400000",
+				"CrSk_Land_Rover_Defender_110,1,-1,1,500000,250000",
+				"CrSk_Land_Rover_Defender_110_Green,1,-1,1,500000,250000",
+				"CrSk_Land_Rover_Defender_110_UN,1,-1,1,500000,250000"
             ]
         },
         {
