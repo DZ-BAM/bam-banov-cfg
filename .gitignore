@@ -3,7 +3,8 @@
 *.RPT
 *.vpp
 *.mdmp
-*.dll 
+*.dll
+*.bak
 DataCache/
 PermissionsFramework/Permissions/
 PermissionsFramework/Players/
