@@ -972,6 +972,22 @@
 				"CrSk_Land_Rover_Defender_110_UN,1,-1,1,500000,250000"
             ]
         },
+		{
+            "CategoryName": "Helicopters",
+            "Products": [
+                "RFFSHeli_LittleBird,1,-1,1,700000,350000",
+                "RFFSHeli_LittleBird_Camo,1,-1,1,700000,350000",
+                "RFFSHeli_LittleBird_Desert,1,-1,1,700000,350000",
+                "RFFSHeli_Bo105m,1,-1,1,1200000,600000",
+                "RFFSHeli_KA26,1,-1,1,1500000,750000",
+				"RFFSHeli_Bell429,1,-1,1,1750000,875000",
+				"RFFSHeli_Bell429_Police,1,-1,1,1750000,875000",
+				"RFFSHeli_Bell429_Medic,1,-1,1,1750000,875000",
+				"RFFSHeli_Mi2,1,-1,1,1750000,875000",
+				"RFFSHeli_Mi2_Military,1,-1,1,1750000,875000",
+				"RFFSHeli_Mi2_Hornet,1,-1,1,1750000,875000"
+            ]
+        },
         {
             "CategoryName": "Vehicle Parts",
             "Products": [
@@ -1032,6 +1048,18 @@
 				"Defender110_dver_2_2_UN,1,-1,0,300,50",
 				"Defender110_kapot_UN,1,-1,0,300,50",
 				"Defender110_bagazhnik_UN,1,-1,0,300,50"
+            ]
+        },
+		{
+            "CategoryName": "Helicopter Parts",
+            "Products": [
+                "RFFSHeli_hydraulic_hoses,1,-1,1,1200,600",
+                "RFFSHeli_wiring_harness,1,-1,1,1200,600",
+                "RFFSHeli_igniter_plug,1,-1,1,1200,600,0.5",
+                "RFFSHeli_aviation_battery,1,-1,1,1200,600",
+                "RFFSHeli_hydraulic_fluid,1,-1,1,1200,600",
+                "RFFSHeli_aviation_toolbox,1,-1,1,3000,1500",
+                "RFFSHeli_flight_case,1,-1,1,3000,1500"
             ]
         },
 		{
@@ -1169,22 +1197,16 @@
 		{
             "CategoryName": "BM Grenades",
             "Products": [
-                "CP_CannabisSeedsPackSkunk,1,-1,0,-1,500",
-				"CP_CannabisBrickSkunk,1,-1,0,-1,15000",
-				"CP_CannabisSeedsPackBlue,1,-1,0,-1,600",
-				"CP_CannabisBrickBlue,1,-1,0,-1,16000",
-				"CP_CannabisSeedsPackKush,1,-1,0,-1,800",
-				"CP_CannabisBrickKush,1,-1,0,-1,18000",
-				"CP_CannabisSeedsPackStardawg,1,-1,0,-1,900",
-				"CP_CannabisBrickStardawg,1,-1,0,-1,20000",
-				"CP_CannabisSeedsPackFuture,1,-1,0,-1,900",
-				"CP_CannabisBrickFuture,1,-1,0,-1,20000",
-				"CP_CannabisSeedsPackS1,1,-1,0,-1,500",
-				"CP_CannabisBrickS1,1,-1,0,-1,15000",
-				"CP_CannabisSeedsPackNomad,1,-1,0,-1,700",
-				"CP_CannabisBrickNomad,1,-1,0,-1,17000",
-				"CP_CannabisSeedsPackBlackFrost,1,-1,0,-1,2000",
-				"CP_CannabisBrickBlackFrost,1,-1,0,-1,30000"
+                "RGD5Grenade,1,-1,1,5000,1000",
+                "M67Grenade,1,-1,1,5000,1000",
+                "M18SmokeGrenade_Red,1,-1,1,3000,500",
+                "M18SmokeGrenade_Green,1,-1,1,3000,500",
+                "M18SmokeGrenade_Yellow,1,-1,1,3000,500",
+                "M18SmokeGrenade_Purple,1,-1,1,3000,500",
+                "M18SmokeGrenade_White,1,-1,1,3000,500",
+                "RDG2SmokeGrenade_Black,1,-1,1,3000,500",
+                "RDG2SmokeGrenade_White,1,-1,1,3000,500",
+                "FlashGrenade,1,-1,1,3000,500"
             ]
         }
 		

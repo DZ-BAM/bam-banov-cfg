@@ -7,7 +7,7 @@
     "TentRaidTime": 15.0,
     "CanAttachToGates": "true",
     "CanAttachToTents": "false",
-    "CanRaidGates": "true",
+    "CanRaidGates": "false",
     "CanRaidTents": "true",
     "DeleteLockonRaid": "false",
     "ToolDamageonRaid": 100,
