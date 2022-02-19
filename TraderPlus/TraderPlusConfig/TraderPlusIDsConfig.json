@@ -82,7 +82,36 @@
             "EnableStockAllCategoryForID": 1,
             "Categories": [
                 "Vehicles",
-                "Vehicle Parts"
+                "Vehicle Parts",
+                "Keys"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 1,
+            "Categories": [
+                "Helicopters",
+                "Helicopter Parts"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 1,
+            "Categories": [
+                "BM Weapons",
+                "BM Mags",
+                "BM Clothing",
+                "BM Grenades"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "EnableStockAllCategoryForID": 1,
+            "Categories": [
+                "BM Drugs"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []

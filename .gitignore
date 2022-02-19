@@ -3,7 +3,9 @@
 *.RPT
 *.vpp
 *.mdmp
-*.dll 
+*.dll
+*.bak
+BattlEye/
 DataCache/
 PermissionsFramework/Permissions/
 PermissionsFramework/Players/

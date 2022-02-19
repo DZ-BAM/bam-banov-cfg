@@ -5,7 +5,7 @@
 		"Melee": 0,
 		"Explosive": 0,
 		"Other": 0,
-		"ToolsFirst": 1,
+		"ToolsFirst": 0,
 		"PartModifier": [
 			{
 				"Part": "wall_wood_",
@@ -46,7 +46,7 @@
 		"Melee": 0,
 		"Explosive": 0,
 		"Other": 0,
-		"ToolsFirst": 1,
+		"ToolsFirst": 0,
 		"PartModifier": [
 			{
 				"Part": "wall_wood_",
