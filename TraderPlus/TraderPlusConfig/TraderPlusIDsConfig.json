@@ -83,12 +83,12 @@
             "Categories": [
                 "Vehicles",
                 "Vehicle Parts",
-				"Keys"
+                "Keys"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
         },
-		{
+        {
             "EnableStockAllCategoryForID": 1,
             "Categories": [
                 "Helicopters",
@@ -97,18 +97,18 @@
             "LicencesRequired": [],
             "CurrenciesAccepted": []
         },
-		{
+        {
             "EnableStockAllCategoryForID": 1,
             "Categories": [
                 "BM Weapons",
                 "BM Mags",
-				"BM Clothing",
-				"BM Grenades"
+                "BM Clothing",
+                "BM Grenades"
             ],
             "LicencesRequired": [],
             "CurrenciesAccepted": []
         },
-		{
+        {
             "EnableStockAllCategoryForID": 1,
             "Categories": [
                 "BM Drugs"

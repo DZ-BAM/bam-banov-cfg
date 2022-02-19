@@ -61,7 +61,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "Truck_01_Covered",
             "Height": 0,
             "VehicleParts": [
@@ -80,7 +80,7 @@
                 "Truck_01_WheelDouble"
             ]
         },
-		{
+        {
             "VehicleName": "GunnerTruck",
             "Height": 0,
             "VehicleParts": [
@@ -90,19 +90,18 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "JLTVWheel",
-				"JLTVWheel",
-				"JLTVWheel",
-				"JLTVWheel",
-				"JLTVDoorDriver",
-				"JLTVDoorCoDriver",
-				"JLTVDoorBackLeft",
-				"JLTVDoorBackRight",
-				"JLTVHood",
-				"JLTVRearGuard"
+                "JLTVWheel",
+                "JLTVWheel",
+                "JLTVWheel",
+                "JLTVDoorDriver",
+                "JLTVDoorCoDriver",
+                "JLTVDoorBackLeft",
+                "JLTVDoorBackRight",
+                "JLTVHood",
+                "JLTVRearGuard"
             ]
         },
-		{
-		
+        {
             "VehicleName": "CrSk_Land_Rover_Defender_110",
             "Height": 0,
             "VehicleParts": [
@@ -112,19 +111,18 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "Defender110_dver_1_1",
-				"Defender110_dver_2_1",
-				"Defender110_dver_1_2",
-				"Defender110_dver_2_2",
-				"Defender110_kapot",
-				"Defender110_bagazhnik",
-				"Defender110_koleso",
-				"Defender110_koleso",
-				"Defender110_koleso",
-				"Defender110_koleso"
+                "Defender110_dver_2_1",
+                "Defender110_dver_1_2",
+                "Defender110_dver_2_2",
+                "Defender110_kapot",
+                "Defender110_bagazhnik",
+                "Defender110_koleso",
+                "Defender110_koleso",
+                "Defender110_koleso",
+                "Defender110_koleso"
             ]
         },
-		{
-		
+        {
             "VehicleName": "CrSk_Land_Rover_Defender_110_Green",
             "Height": 0,
             "VehicleParts": [
@@ -134,19 +132,18 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "Defender110_dver_1_1_Green",
-				"Defender110_dver_2_1_Green",
-				"Defender110_dver_1_2_Green",
-				"Defender110_dver_2_2_Green",
-				"Defender110_kapot_Green",
-				"Defender110_bagazhnik_Green",
-				"Defender110_koleso_Green",
-				"Defender110_koleso_Green",
-				"Defender110_koleso_Green",
-				"Defender110_koleso_Green"
+                "Defender110_dver_2_1_Green",
+                "Defender110_dver_1_2_Green",
+                "Defender110_dver_2_2_Green",
+                "Defender110_kapot_Green",
+                "Defender110_bagazhnik_Green",
+                "Defender110_koleso_Green",
+                "Defender110_koleso_Green",
+                "Defender110_koleso_Green",
+                "Defender110_koleso_Green"
             ]
         },
-		{
-		
+        {
             "VehicleName": "CrSk_Land_Rover_Defender_110_UN",
             "Height": 0,
             "VehicleParts": [
@@ -156,18 +153,18 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "Defender110_dver_1_1_UN",
-				"Defender110_dver_2_1_UN",
-				"Defender110_dver_1_2_UN",
-				"Defender110_dver_2_2_UN",
-				"Defender110_kapot_UN",
-				"Defender110_bagazhnik_UN",
-				"Defender110_koleso_UN",
-				"Defender110_koleso_UN",
-				"Defender110_koleso_UN",
-				"Defender110_koleso_UN"
+                "Defender110_dver_2_1_UN",
+                "Defender110_dver_1_2_UN",
+                "Defender110_dver_2_2_UN",
+                "Defender110_kapot_UN",
+                "Defender110_bagazhnik_UN",
+                "Defender110_koleso_UN",
+                "Defender110_koleso_UN",
+                "Defender110_koleso_UN",
+                "Defender110_koleso_UN"
             ]
         },
-		{
+        {
             "VehicleName": "RFFSHeli_Bo105m",
             "Height": 0,
             "VehicleParts": [
@@ -248,9 +245,9 @@
                 "RFFSHeli_Bell429_Cargo2",
                 "RFFSHeli_Bell429_Cargo3",
                 "RFFSHeli_Bell429_Cargo4",
-				"RFFSHeli_Bell429_interior",
-				"RFFSHeli_Bell429_skids",
-				"RFFSHeli_Bell429_rearseats",
+                "RFFSHeli_Bell429_interior",
+                "RFFSHeli_Bell429_skids",
+                "RFFSHeli_Bell429_rearseats",
                 "HeadlightH7"
             ]
         },
@@ -268,9 +265,9 @@
                 "RFFSHeli_Bell429_Cargo2_Police",
                 "RFFSHeli_Bell429_Cargo3_Police",
                 "RFFSHeli_Bell429_Cargo4_Police",
-				"RFFSHeli_Bell429_interior_Police",
-				"RFFSHeli_Bell429_skids_Police",
-				"RFFSHeli_Bell429_rearseats_Police",
+                "RFFSHeli_Bell429_interior_Police",
+                "RFFSHeli_Bell429_skids_Police",
+                "RFFSHeli_Bell429_rearseats_Police",
                 "HeadlightH7"
             ]
         },
@@ -288,9 +285,9 @@
                 "RFFSHeli_Bell429_Cargo2_Medic",
                 "RFFSHeli_Bell429_Cargo3_Medic",
                 "RFFSHeli_Bell429_Cargo4_Medic",
-				"RFFSHeli_Bell429_interior_Medic",
-				"RFFSHeli_Bell429_skids_Medic",
-				"RFFSHeli_Bell429_rearseats_Medic",
+                "RFFSHeli_Bell429_interior_Medic",
+                "RFFSHeli_Bell429_skids_Medic",
+                "RFFSHeli_Bell429_rearseats_Medic",
                 "HeadlightH7"
             ]
         },
@@ -336,6 +333,5 @@
                 "HeadlightH7"
             ]
         }
-		
     ]
 }
