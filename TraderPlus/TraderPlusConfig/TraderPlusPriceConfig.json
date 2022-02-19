@@ -1299,7 +1299,7 @@
             ]
         },
         {
-            "CategoryName": "BM_Drugs",
+            "CategoryName": "BM Drugs",
             "Products": [
                 "CP_CannabisSeedsPackSkunk,1,-1,0,-1,500",
                 "CP_CannabisBrickSkunk,1,-1,0,-1,15000",
