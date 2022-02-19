@@ -3,7 +3,7 @@
 	"WhiteList": [
 		"Trap",
 		"Paper",
-		"Fireplace",
+		"Fireplace"
 	],
 	"ServerAdmins": [],
 	"TentRadius": 6.0,
@@ -15,18 +15,25 @@
 	"Notifications": 0,
 	"NoBuildZones": [
 		{
-			"Name": "",
-			"X": 3703.5,
-			"Z": 5985.10986328125,
-			"R": 100.0,
-			"DrawOnMap": 0
+			"Name": "Alica Airport (north)",
+			"X": 4867,
+			"Z": 5171,
+			"R": 500.0,
+			"DrawOnMap": 1
 		},
 		{
-			"Name": "",
-			"X": 8345.6103515625,
-			"Z": 5985.93017578125,
-			"R": 100.0,
-			"DrawOnMap": 0
+			"Name": "Alica Airport (center)",
+			"X": 4906,
+			"Z": 4848,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Alica Airport (south)",
+			"X": 4988,
+			"Z": 4542,
+			"R": 500.0,
+			"DrawOnMap": 1
 		}
 	],
 	"NoBuildZoneMessage": " You can't build here, you are trying to build in a designated no build zone",
