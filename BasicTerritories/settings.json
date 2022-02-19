@@ -11,7 +11,7 @@
 	"BuildBonusSledgeDamage": 300.0,
 	"RequireTerritory": 1,
 	"PublicPermissions": 384,
-	"MemberPermissions": 1,
+	"MemberPermissions": 511,
 	"Notifications": 0,
 	"NoBuildZones": [
 		{
