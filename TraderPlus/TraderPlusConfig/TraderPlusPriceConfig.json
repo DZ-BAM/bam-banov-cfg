@@ -1197,7 +1197,8 @@
         {
             "CategoryName": "Vehicle Parts",
             "Products": [
-                "HeadlightH7_Box,1,-1,0,30,10",
+                "TraderPlusWrench,1,-1,0,30,30",
+				"HeadlightH7_Box,1,-1,0,30,10",
                 "SparkPlug,1,-1,0,60,20",
                 "EngineOil,1,-1,1000,70,40",
                 "CarBattery,1,-1,50,100,50",
