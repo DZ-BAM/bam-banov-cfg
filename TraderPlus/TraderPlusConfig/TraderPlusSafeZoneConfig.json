@@ -7,14 +7,14 @@
     "MsgOnLeavingZone": "You're leaving the safe zone in:",
     "SafeAreaLocation": [
         {
-            "SafeZoneStatut": "Trader",
+            "SafeZoneStatut": "Trader inner",
             "X": 7800.0,
             "Y": 7220.0,
             "Radius": 600.0,
             "Countdown": 30
         },
         {
-            "SafeZoneStatut": "Trader",
+            "SafeZoneStatut": "Trader outer",
             "X": 7800.0,
             "Y": 7220.0,
             "Radius": 800.0,
