@@ -111,7 +111,7 @@
     ],
     "RewardPools": [
         {
-            "Name": "First Pool",
+            "Name": "1 Pool",
             "RewardContainer": "SeaChest",
             "Rewards": [
                 {
@@ -132,7 +132,7 @@
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Item": "HDSN_C4StickWithDuctTape",
                     "ItemAttachments": []
                 },
                 {
@@ -144,7 +144,7 @@
             ]
         },
 		{
-            "Name": "Second Pool",
+            "Name": "2 Pool",
             "RewardContainer": "SeaChest",
             "Rewards": [
                 {
@@ -166,7 +166,7 @@
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Item": "HDSN_C4StickWithDuctTape",
                     "ItemAttachments": []
                 },
                 {
@@ -178,7 +178,7 @@
             ]
         },
 		{
-            "Name": "Third Pool",
+            "Name": "3 Pool",
             "RewardContainer": "SeaChest",
             "Rewards": [
                 {
@@ -198,7 +198,105 @@
                     "ItemAttachments": []
                 },
                 {
-                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Item": "HDSN_C4StickWithDuctTape",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "4 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_GEVAR43",
+                    "ItemAttachments": [
+                        "TTC_GEVAR43_Magazine_10rnd"
+                    ]
+                },
+                {
+                    "Item": "MVS_Altyn_Tan",
+                    "ItemAttachments": [
+                        "MVS_Altyn_Visor_Tan"
+                    ]
+                },
+                {
+                    "Item": "TTC_GEVAR43_Magazine_10rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_Detonator",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "5 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_FAL",
+                    "ItemAttachments": [
+                        "TTC_Coupled_FAL_Magazine",
+						"TTC_FAL_RIS_Hndgrd",
+						"TTC_FAL_Wood_Bttstck"
+                    ]
+                },
+                {
+                    "Item": "MVS_Altyn_OD",
+                    "ItemAttachments": [
+                        "MVS_Altyn_Visor_OD"
+                    ]
+                },
+                {
+                    "Item": "TTC_M82_5rnd_Mag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_Detonator",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "6 Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_Beowulf",
+                    "ItemAttachments": [
+                        "TTC_50Beo_mag"
+                    ]
+                },
+                {
+                    "Item": "MVS_Altyn_Black",
+                    "ItemAttachments": [
+                        "MVS_Altyn_Visor_Black"
+                    ]
+                },
+                {
+                    "Item": "TTC_50Beo_mag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_Detonator",
                     "ItemAttachments": []
                 },
                 {
