@@ -1,5 +1,5 @@
 {
-    "EnableNameTag": 1,
+    "EnableNameTag": 0,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 30,
     "MsgEnterZone": "You have entered the safezone!",
