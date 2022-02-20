@@ -2,9 +2,9 @@
     "EnableNameTag": 1,
     "EnableAfkDisconnect": 0,
     "KickAfterDelay": 30,
-    "MsgEnterZone": "You have entered the safe zone!",
-    "MsgExitZone": "You have left the safe zone!",
-    "MsgOnLeavingZone": "You're leaving the safe zone in:",
+    "MsgEnterZone": "You have entered the safezone!",
+    "MsgExitZone": "You have left the safezone!",
+    "MsgOnLeavingZone": "You are leaving the safezone in:",
     "SafeAreaLocation": [
         {
             "SafeZoneStatut": "Trader inner",
