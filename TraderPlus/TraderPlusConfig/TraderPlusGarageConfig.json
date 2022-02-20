@@ -1,11 +1,11 @@
 {
-	"VehicleMustHaveLock": 1,
+	"VehicleMustHaveLock": 0,
 	"SaveVehicleCargo": 0,
 	"SaveVehicleHealth": 1,
 	"SaveVehicleFuel": 1,
 	"ParkInCost": 100,
 	"ParkOutCost": 100,
-	"PayWithBankAccount": 0,
+	"PayWithBankAccount": 1,
 	"WhitelistedObjects": [],
 	"NPCs": [
 		{

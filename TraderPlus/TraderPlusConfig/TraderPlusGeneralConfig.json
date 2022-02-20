@@ -15,8 +15,8 @@
     ],
     "AcceptedStates": {
         "AcceptWorn": 1,
-        "AcceptDamaged": 0,
-        "AcceptBadlyDamaged": 0
+        "AcceptDamaged": 1,
+        "AcceptBadlyDamaged": 1
     },
     "StoreOnlyToPristineState": 0,
     "Currencies": [
