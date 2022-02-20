@@ -207,7 +207,7 @@
                 "Paper,1,-1,0,1,0",
                 "Pen_Blue,1,-1,0,10,1",
                 "Rope,1,-1,0,50,5",
-                "TannedLeather,1,-1,2,1000,100",
+                "TannedLeather,1,-1,1,-1,2500",
                 "AntiPestsSpray,1,-1,120,50,5",
                 "MetalWire,1,-1,0,1000,100",
                 "EpoxyPutty,1,-1,100,500,50",
