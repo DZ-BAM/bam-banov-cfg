@@ -148,12 +148,6 @@
         }
     ],
     "DestroyableObjects": {
-        "Watchtower_HalfMetal": "Tier2",
-        "Watchtower": "Tier1",
-        "Fence_HalfMetal": "Tier2",
-        "Fence": "Tier1",
-        "Watchtower_Metal": "Tier3",
-        "Fence_Frame": "Tier1",
         "Fence_Gate": "Tier1",
         "Fence_Gate_Metal": "Tier3",
         "Fence_Gate_HalfMetal": "Tier2",

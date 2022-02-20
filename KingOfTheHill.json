@@ -115,21 +115,20 @@
             "RewardContainer": "SeaChest",
             "Rewards": [
                 {
-                    "Item": "M4A1",
+                    "Item": "TTC_FD338",
                     "ItemAttachments": [
-                        "M4_RISHndgrd",
-                        "M4_OEBttstck",
-                        "M68Optic"
+                        "TTC_338mag_10rnd",
+                        "TTC_VortexSE_Optic"
                     ]
                 },
                 {
-                    "Item": "PlateCarrierVest",
+                    "Item": "MVS_Combat_Vest_Heavy_OD",
                     "ItemAttachments": [
-                        "PlateCarrierHolster"
+                        "MVS_Heavy_Pouch_OD"
                     ]
                 },
                 {
-                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "Item": "TTC_338mag_10rnd",
                     "ItemAttachments": []
                 },
                 {
@@ -143,7 +142,73 @@
                     ]
                 }
             ]
-        }
+        },
+		{
+            "Name": "Second Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_AKModPK",
+                    "ItemAttachments": [
+                        "TTC_AKMod_762x54_65rnd",
+						"TTC_AKMod_bttstk"
+						"TTC_AKMod_Hndguard"
+                    ]
+                },
+                {
+                    "Item": "MVS_Combat_Vest_Heavy_Black",
+                    "ItemAttachments": [
+                        "MVS_Heavy_Pouch_Black"
+                    ]
+                },
+                {
+                    "Item": "TTC_AKMod_762x54_65rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
+		{
+            "Name": "Third Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "TTC_M82",
+                    "ItemAttachments": [
+                        "TTC_M82_5rnd_Mag",
+                    ]
+                },
+                {
+                    "Item": "MVS_Combat_Vest_Heavy_Tan",
+                    "ItemAttachments": [
+                        "MVS_Heavy_Pouch_Tan"
+                    ]
+                },
+                {
+                    "Item": "TTC_M82_5rnd_Mag",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        },
     ],
     "ZombiesClassNames": [
         "ZmbM_PatrolNormal_PautRev",
