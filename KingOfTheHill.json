@@ -151,7 +151,7 @@
                     "Item": "TTC_AKModPK",
                     "ItemAttachments": [
                         "TTC_AKMod_762x54_65rnd",
-						"TTC_AKMod_bttstk"
+						"TTC_AKMod_bttstk",
 						"TTC_AKMod_Hndguard"
                     ]
                 },
@@ -184,7 +184,7 @@
                 {
                     "Item": "TTC_M82",
                     "ItemAttachments": [
-                        "TTC_M82_5rnd_Mag",
+                        "TTC_M82_5rnd_Mag"
                     ]
                 },
                 {
@@ -208,7 +208,7 @@
                     ]
                 }
             ]
-        },
+        }
     ],
     "ZombiesClassNames": [
         "ZmbM_PatrolNormal_PautRev",
