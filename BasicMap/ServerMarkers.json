@@ -9,9 +9,9 @@
         "Icon": "BasicMap\\gui\\images\\cart.paa",
         "Is3DMarker": 1,
         "Colour": [
-			0.0,
-			255.0,
-			0.0
+			0,
+			255,
+			0
         ],
         "Alpha": 240,
         "HideOnPanel": 0,
@@ -32,9 +32,9 @@
         "Icon": "BasicMap\\gui\\images\\guns.paa",
         "Is3DMarker": 1,
         "Colour": [
-			255.0,
-			0.0,
-			0.0
+			255,
+			0,
+			0
         ],
         "Alpha": 240,
         "HideOnPanel": 0,
