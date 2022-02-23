@@ -19,7 +19,7 @@
                 "HatchbackWheel"
             ]
         },
-		{
+        {
             "VehicleName": "OffroadHatchback_Blue",
             "Height": 0,
             "VehicleParts": [
@@ -38,7 +38,7 @@
                 "HatchbackWheel"
             ]
         },
-		{
+        {
             "VehicleName": "OffroadHatchback_White",
             "Height": 0,
             "VehicleParts": [
@@ -78,7 +78,7 @@
                 "Hatchback_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Hatchback_02_Blue",
             "Height": 0,
             "VehicleParts": [
@@ -99,7 +99,7 @@
                 "Hatchback_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Hatchback_02_Black",
             "Height": 0,
             "VehicleParts": [
@@ -141,7 +141,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "CivilianSedan_Black",
             "Height": 0,
             "VehicleParts": [
@@ -162,7 +162,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "CivilianSedan_Wine",
             "Height": 0,
             "VehicleParts": [
@@ -183,7 +183,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "CivilianSedan_Wine",
             "Height": 0,
             "VehicleParts": [
@@ -204,7 +204,7 @@
                 "CivSedanWheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02",
             "Height": 0,
             "VehicleParts": [
@@ -214,18 +214,18 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "Sedan_02_Hood",
-				"Sedan_02_Trunk",
-				"Sedan_02_Door_1_1",
-				"Sedan_02_Door_1_2",
-				"Sedan_02_Door_2_1",
-				"Sedan_02_Door_2_2",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel"
+                "Sedan_02_Trunk",
+                "Sedan_02_Door_1_1",
+                "Sedan_02_Door_1_2",
+                "Sedan_02_Door_2_1",
+                "Sedan_02_Door_2_2",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02_Grey",
             "Height": 0,
             "VehicleParts": [
@@ -235,18 +235,18 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "Sedan_02_Hood",
-				"Sedan_02_Trunk",
-				"Sedan_02_Door_1_1",
-				"Sedan_02_Door_1_2",
-				"Sedan_02_Door_2_1",
-				"Sedan_02_Door_2_2",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel"
+                "Sedan_02_Trunk",
+                "Sedan_02_Door_1_1",
+                "Sedan_02_Door_1_2",
+                "Sedan_02_Door_2_1",
+                "Sedan_02_Door_2_2",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel"
             ]
         },
-		{
+        {
             "VehicleName": "Sedan_02_Red",
             "Height": 0,
             "VehicleParts": [
@@ -256,15 +256,15 @@
                 "HeadlightH7",
                 "HeadlightH7",
                 "Sedan_02_Hood",
-				"Sedan_02_Trunk",
-				"Sedan_02_Door_1_1",
-				"Sedan_02_Door_1_2",
-				"Sedan_02_Door_2_1",
-				"Sedan_02_Door_2_2",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel",
-				"Sedan_02_Wheel"
+                "Sedan_02_Trunk",
+                "Sedan_02_Door_1_1",
+                "Sedan_02_Door_1_2",
+                "Sedan_02_Door_2_1",
+                "Sedan_02_Door_2_2",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel"
             ]
         },
         {
@@ -286,7 +286,7 @@
                 "Truck_01_WheelDouble"
             ]
         },
-		{
+        {
             "VehicleName": "Truck_01_Covered_Blue",
             "Height": 0,
             "VehicleParts": [
@@ -305,7 +305,7 @@
                 "Truck_01_WheelDouble"
             ]
         },
-		{
+        {
             "VehicleName": "Truck_01_Covered_Orange",
             "Height": 0,
             "VehicleParts": [
