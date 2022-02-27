@@ -1,0 +1,21 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "Land_Misc_Well_Pump_Yellow", "7800.319824 238.000000 7242.000000", "-108.001244 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_outdoor", "7804.490234 237.699997 7245.589844", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_outdoor", "7804.330078 237.699997 7249.720215", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_indoor", "7798.569824 237.649994 7245.500000", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_misc_woodtable_indoor", "7798.669922 237.649994 7249.490234", "0.000000 0.000000 -0.000000" );
+SpawnObject( "land_chz_traktor_1", "7768.310059 238.199997 7225.000000", "-41.999828 0.000000 0.000000" );
+SpawnObject( "vbldr_pultskasou", "7810.979980 238.000000 7244.290039", "89.104713 0.000000 -0.000000" );
+SpawnObject( "vbldr_icebox", "7812.990234 238.000000 7241.160156", "175.999603 0.000000 -0.000000" );
+SpawnObject( "vbldr_shelf_1side", "7815.200195 237.345001 7243.879883", "0.000000 0.000000 -0.000000" );
