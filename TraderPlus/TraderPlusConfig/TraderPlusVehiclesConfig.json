@@ -408,6 +408,321 @@
                 "Defender110_koleso"
             ]
         },
+		{
+            "VehicleName": "CrSk_BMW_525i_E34",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"BMWE34_kapot",
+				"BMWE34_bagazhnik",
+				"BMWE34_dver_1_1",
+				"BMWE34_dver_2_1",
+				"BMWE34_dver_1_2",
+				"BMWE34_dver_2_2",
+				"BMWE34_koleso_style5",
+				"BMWE34_koleso_style5",
+				"BMWE34_koleso_style5",
+				"BMWE34_koleso_style5",
+				"BMWE34_koleso_style5"
+            ]
+        },
+		{
+            "VehicleName": "CrSk_BMW_525i_E34_Red",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"BMWE34_kapot_red",
+				"BMWE34_bagazhnik_red",
+				"BMWE34_dver_1_1_red",
+				"BMWE34_dver_2_1_red",
+				"BMWE34_dver_1_2_red",
+				"BMWE34_dver_2_2_red",
+				"BMWE34_koleso_style37",
+				"BMWE34_koleso_style37",
+				"BMWE34_koleso_style37",
+				"BMWE34_koleso_style37",
+				"BMWE34_koleso_style37"
+            ]
+        },
+		{
+            "VehicleName": "CrSk_BMW_525i_E34_Black",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"BMWE34_kapot_Black",
+				"BMWE34_bagazhnik_Black",
+				"BMWE34_dver_1_1_Black",
+				"BMWE34_dver_2_1_Black",
+				"BMWE34_dver_1_2_Black",
+				"BMWE34_dver_2_2_Black",
+				"BMWE34_koleso_style21",
+				"BMWE34_koleso_style21",
+				"BMWE34_koleso_style21",
+				"BMWE34_koleso_style21",
+				"BMWE34_koleso_style21"
+            ]
+        },
+		{
+            "VehicleName": "CrSk_BMW_525i_E34_Purple",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"BMWE34_kapot_Purple",
+				"BMWE34_bagazhnik_Purple",
+				"BMWE34_dver_1_1_Purple",
+				"BMWE34_dver_2_1_Purple",
+				"BMWE34_dver_1_2_Purple",
+				"BMWE34_dver_2_2_Purple",
+				"BMWE34_koleso_style21_black",
+				"BMWE34_koleso_style21_black",
+				"BMWE34_koleso_style21_black",
+				"BMWE34_koleso_style21_black",
+				"BMWE34_koleso_style21_black"
+            ]
+        },
+		{
+            "VehicleName": "CrSk_BMW_525i_E34_Beater",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"BMWE34_kapot_beater",
+				"BMWE34_bagazhnik_beater",
+				"BMWE34_dver_1_1_beater",
+				"BMWE34_dver_2_1_beater",
+				"BMWE34_dver_1_2_beater",
+				"BMWE34_dver_2_2_beater",
+				"BMWE34_koleso_shtamp",
+				"BMWE34_koleso_shtamp",
+				"BMWE34_koleso_shtamp_black",
+				"BMWE34_koleso_shtamp_black",
+				"BMWE34_koleso_shtamp_black"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_Datsun",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"DATSUNDriverDoor",
+				"DATSUNCoDriverDoor",
+				"DATSUN_wheel",
+				"DATSUN_wheel",
+				"DATSUN_wheel",
+				"DATSUN_wheel"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_Datsun",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"DATSUNDriverDoor",
+				"DATSUNCoDriverDoor",
+				"DATSUN_wheel",
+				"DATSUN_wheel",
+				"DATSUN_wheel",
+				"DATSUN_wheel"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_Humvee",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"Humvee_wheel",
+				"Humvee_wheel",
+				"Humvee_wheel",
+				"Humvee_wheel"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_KAMAZ",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"KAMAZDriverDoor",
+				"KAMAZCoDriverDoor",
+				"KAMAZCargo1Door",
+				"KAMAZCargo2Door",
+				"KAMAZ_wheel",
+				"KAMAZ_wheel",
+				"KAMAZ_wheel",
+				"KAMAZ_wheel",
+				"KAMAZ_wheel",
+				"KAMAZ_wheel"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_MRAP",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"MRAPDriverDoor",
+				"MRAPCoDriverDoor",
+				"MRAPCargo1Door",
+				"MRAPCargo2Door",
+				"MRAP_wheel",
+				"MRAP_wheel",
+				"MRAP_wheel",
+				"MRAP_wheel"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_MTVR",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"MTVRDriverDoor",
+				"MTVRCoDriverDoor",
+				"MTVRCargo1Door",
+				"MTVRCargo2Door",
+				"MTVR_wheel",
+				"MTVR_wheel",
+				"MTVR_wheel",
+				"MTVR_wheel",
+				"MTVR_wheel",
+				"MTVR_wheel"
+            ]
+        },
+		{
+            "VehicleName": "Dmns_URAL",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"URALDriverDoor",
+				"URALCoDriverDoor",
+				"URALCargo1Door",
+				"URALCargo2Door",
+				"URAL_wheel",
+				"URAL_wheel",
+				"URAL_wheel",
+				"URAL_wheel",
+				"URAL_wheel",
+				"URAL_wheel"
+            ]
+        },
+		{
+            "VehicleName": "MRAP_Cougar",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"CanisterGasoline",
+				"mrap_wheel",
+				"mrap_wheel",
+				"mrap_wheel",
+				"mrap_wheel",
+				"mrap_wheel",
+				"mrap_doors_driver",
+				"mrap_doors_codriver",
+				"mrap_doors_trunk0",
+				"mrap_doors_trunk",
+				"mrap_doors_hood"
+            ]
+        },
+		{
+            "VehicleName": "Glowler_ITV",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"wheel_Glowler_ITV",
+				"wheel_Glowler_ITV",
+				"wheel_Glowler_ITV",
+				"wheel_Glowler_ITV"
+            ]
+        },
+		{
+            "VehicleName": "LAPV",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"lapv_doors_trunk",
+				"lapv_doors_cargo1",
+				"lapv_doors_cargo2",
+				"lapv_doors_driver",
+				"lapv_doors_codriver",
+				"wheel_lapv",
+				"wheel_lapv",
+				"wheel_lapv",
+				"wheel_lapv"
+            ]
+        },
+		{
+            "VehicleName": "Jeep_Wnagler",
+            "Height": 0,
+            "VehicleParts": [
+                "SparkPlug",
+				"CarBattery",
+				"CarRadiator",
+				"HeadlightH7",
+				"HeadlightH7",
+				"wheel_Jeep_Wnagler",
+				"wheel_Jeep_Wnagler",
+				"wheel_Jeep_Wnagler",
+				"wheel_Jeep_Wnagler",
+				"Jeep_Wnagler_doors_driver",
+				"Jeep_Wnagler_doors_codriver"
+            ]
+        },
         {
             "VehicleName": "RFFSHeli_Bo105m",
             "Height": 0,

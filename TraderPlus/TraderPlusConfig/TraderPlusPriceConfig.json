@@ -1183,10 +1183,25 @@
                 "Truck_01_Covered,1,-1,1,400000,200000",
                 "Truck_01_Covered_Blue,1,-1,1,400000,200000",
                 "Truck_01_Covered_Orange,1,-1,1,400000,200000",
-                "GunnerTruck,1,-1,1,800000,400000",
                 "CrSk_Land_Rover_Defender_110,1,-1,1,500000,250000",
                 "CrSk_Land_Rover_Defender_110_Green,1,-1,1,500000,250000",
-                "CrSk_Land_Rover_Defender_110_UN,1,-1,1,500000,250000"
+                "CrSk_Land_Rover_Defender_110_UN,1,-1,1,500000,250000",
+				"Glowler_ITV,1,-1,1,500000,250000",
+				"Jeep_Wnagler,1,-1,1,500000,250000",
+				"CrSk_BMW_525i_E34,1,-1,1,400000,200000",
+				"CrSk_BMW_525i_E34_Red,1,-1,1,400000,200000",
+				"CrSk_BMW_525i_E34_Black,1,-1,1,400000,200000",
+				"CrSk_BMW_525i_E34_Purple,1,-1,1,400000,200000",
+				"CrSk_BMW_525i_E34_Beater,1,-1,1,400000,200000",
+				"Dmns_Datsun,1,-1,1,400000,200000",
+				"Dmns_URAL,1,-1,1,400000,200000",
+				"Dmns_KAMAZ,1,-1,1,450000,250000",
+				"Dmns_MTVR,1,-1,1,500000,300000",
+				"Dmns_Humvee,1,-1,1,600000,300000",
+				"LAPV,1,-1,1,650000,300000",
+				"Dmns_MRAP,1,-1,1,1000000,750000",
+				"MRAP_Cougar,1,-1,1,1000000,750000",
+				"GunnerTruck,1,-1,1,1000000,750000"
             ]
         },
         {
