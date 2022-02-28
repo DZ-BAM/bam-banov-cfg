@@ -1,0 +1,14 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "vbldr_rubble_dirtpile_medium1", "7812.709961 238.000000 7273.770020", "0.000000 0.000000 -0.000000" );
+SpawnObject( "vbldr_rubble_dirtpile_large", "7832.350098 238.500000 7281.970215", "15.999999 0.000000 -0.000000" );
