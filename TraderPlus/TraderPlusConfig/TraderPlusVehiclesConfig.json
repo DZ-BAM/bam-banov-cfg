@@ -561,6 +561,12 @@
 				"CarRadiator",
 				"HeadlightH7",
 				"HeadlightH7",
+				"HUMVEEDriverDoor",
+				"HUMVEECoDriverDoor",
+				"HUMVEECargo1Door",
+				"HUMVEECargo2Door",
+				"HUMVEECargo3Door",
+				"HUMVEECargo4Door",
 				"Humvee_wheel",
 				"Humvee_wheel",
 				"Humvee_wheel",
@@ -651,7 +657,7 @@
         },
 		{
             "VehicleName": "MRAP_Cougar",
-            "Height": 0,
+            "Height": 4,
             "VehicleParts": [
                 "SparkPlug",
 				"CarBattery",
@@ -673,7 +679,7 @@
         },
 		{
             "VehicleName": "Glowler_ITV",
-            "Height": 0,
+            "Height": 3,
             "VehicleParts": [
                 "SparkPlug",
 				"CarBattery",
@@ -708,7 +714,7 @@
         },
 		{
             "VehicleName": "Jeep_Wnagler",
-            "Height": 0,
+            "Height": 3,
             "VehicleParts": [
                 "SparkPlug",
 				"CarBattery",
