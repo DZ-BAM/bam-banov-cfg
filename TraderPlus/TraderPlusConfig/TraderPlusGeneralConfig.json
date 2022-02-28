@@ -84,7 +84,7 @@
             "Position": [
                 7796.517578125,
                 237.35842895507813,
-                7239.3
+                7239.2998046875
             ],
             "Orientation": [
                 0.0,
@@ -94,7 +94,11 @@
             "Clothes": [
                 "M65Jacket_Black",
                 "CargoPants_Black",
-                "MilitaryBoots_Black"
+                "MilitaryBoots_Black",
+                "TTC_AKMod_Gold",
+                "TTC_AKMod_Gold_Hndguard",
+                "TTC_AKMod_Gold_bttstk",
+                "TTC_M82_gold"
             ]
         },
         {
