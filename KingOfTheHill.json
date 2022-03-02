@@ -11,7 +11,7 @@
         {
             "Name": "Asgard Castle",
             "X": 8920,
-            "Y": 0,
+            "Y": 501.25,
             "Z": 13177,
             "CaptureRadius": 15.0,
             "EventRadius": 100.0,
