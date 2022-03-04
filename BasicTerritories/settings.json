@@ -34,6 +34,125 @@
 			"Z": 4542,
 			"R": 500.0,
 			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Obsidian",
+			"X": 4256,
+			"Z": 14371,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Hrabice Airport (north)",
+			"X": 2100,
+			"Z": 12160,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Hrabice Airport (center)",
+			"X": 2100,
+			"Z": 12595,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Hrabice Airport (south)",
+			"X": 2100,
+			"Z": 11290,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Pepelova Military",
+			"X": 306,
+			"Z": 5920,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Jankov vrsok",
+			"X": 13832,
+			"Z": 3750,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Jankov vrsok (underground)",
+			"X": 14180,
+			"Z": 3800,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "R.A.B.B.I.T.",
+			"X": 13306,
+			"Z": 11544,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (north west)",
+			"X": 11630,
+			"Z": 15040,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (north)",
+			"X": 12163,
+			"Z": 15040,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (north east)",
+			"X": 12575,
+			"Z": 15100,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (south west)",
+			"X": 11786,
+			"Z": 14600,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Military Tisovik (south east)",
+			"X": 12220,
+			"Z": 14650,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Easthaven",
+			"X": 14505,
+			"Z": 9680,
+			"R": 500.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "OverGrown Military",
+			"X": 8206,
+			"Z": 9811,
+			"R": 700.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Outpost Arkaria",
+			"X": 6200,
+			"Z": 2030,
+			"R": 200.0,
+			"DrawOnMap": 1
+		},
+		{
+			"Name": "Happy Bombs",
+			"X": 880,
+			"Z": 8980,
+			"R": 500.0,
+			"DrawOnMap": 1
 		}
 	],
 	"NoBuildZoneMessage": " You can't build here, you are trying to build in a designated no build zone",
