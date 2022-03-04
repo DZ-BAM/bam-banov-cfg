@@ -10,4 +10,4 @@ void SpawnObject(string objType, vector objPos, vector objOrientation)
 
 
 
-SpawnObject( "Alien_Ship", "7840.479980 251.000000 7230.770020", "0.000000 0.000000 0.000000" );
+SpawnObject( "kaufland_sign", "7825.479980 246.000000 7235.200195", "57.001423 0.000000 -0.000000" );
