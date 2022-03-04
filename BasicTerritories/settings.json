@@ -153,6 +153,13 @@
 			"Z": 8980,
 			"R": 500.0,
 			"DrawOnMap": 1
+		},
+		{
+			"Name": "Kopec",
+			"X": 7096,
+			"Z": 12059,
+			"R": 500.0,
+			"DrawOnMap": 1
 		}
 	],
 	"NoBuildZoneMessage": " You can't build here, you are trying to build in a designated no build zone",
