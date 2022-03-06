@@ -1,7 +1,7 @@
 {
-    "RaidTimeInSeconds": 10.0,
+    "RaidTimeInSeconds": 200.0,
     "CanAttach": "true",
-    "CanRaid": "false",
+    "CanRaid": "true",
     "DeleteLockOnRaid": "false",
     "ToolDamageOnRaid": 100,
     "RaidTools": [

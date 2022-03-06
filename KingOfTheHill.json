@@ -3,7 +3,7 @@
     "ConfigVersion": "1",
     "Interval": 1800.0,
     "StartDelay": 900.0,
-    "CaptureTime": 900.0,
+    "CaptureTime": 600.0,
     "EmptyEventTimeOut": 1800.0,
     "CleanUpTime": 600.0,
     "PreStartDelay": 300.0,
@@ -154,6 +154,10 @@
 						"TTC_AKMod_bttstk",
 						"TTC_AKMod_Hndguard"
                     ]
+                },
+				{
+                    "Item": "TTC_AKMod_762x54_65rnd",
+                    "ItemAttachments": []
                 },
                 {
                     "Item": "MVS_Combat_Vest_Heavy_Black",
