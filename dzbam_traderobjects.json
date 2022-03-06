@@ -13,19 +13,6 @@
         ]
     },
     {
-        "ObjectName": "Alien_Ship",
-        "Position": [
-            7840.47998,
-            251.0,
-            7230.77002
-        ],
-        "Orientation": [
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
         "ObjectName": "land_chz_ekskavator",
         "Position": [
             7797.700195,
