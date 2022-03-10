@@ -3,7 +3,7 @@
     "ConfigVersion": "1",
     "Interval": 1800.0,
     "StartDelay": 900.0,
-    "CaptureTime": 600.0,
+    "CaptureTime": 900.0,
     "EmptyEventTimeOut": 1800.0,
     "CleanUpTime": 600.0,
     "PreStartDelay": 300.0,
